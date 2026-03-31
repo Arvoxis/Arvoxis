@@ -13,18 +13,18 @@ B.Tech Computer Science @ VIT Vellore '28 · Vice Chairperson, AI & ML Club
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a second-year CS undergrad at VIT Vellore with a deep interest in machine learning, NLP, and computer vision. I build things that sit at the intersection of AI and real-world utility — from gesture-controlled games to intelligent research tools. Currently leading AI/ML initiatives on campus as Vice Chairperson of the AI & ML Club.
 
-- 🔭 Currently working on **LLM-powered research tools** and **real-time computer vision applications**
-- 🌱 Diving deeper into **deep learning architectures**, **prompt engineering**, and **full-stack AI apps**
-- 🤝 Open to collaborating on **ML/AI projects**, **open-source tools**, and **hackathon teams**
-- 🎯 Goal: Land an AI/ML internship and contribute meaningfully to open source
+- Currently working on **LLM-powered research tools** and **real-time computer vision applications**
+- Diving deeper into **deep learning architectures**, **prompt engineering**, and **full-stack AI apps**
+- Open to collaborating on **ML/AI projects**, **open-source tools**, and **hackathon teams**
+- Goal: Land an AI/ML internship and contribute meaningfully to open source
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -55,7 +55,7 @@ I'm a second-year CS undergrad at VIT Vellore with a deep interest in machine le
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
