@@ -4,7 +4,7 @@
 
 **Machine Learning & AI Enthusiast | Full Stack Developer**
 
-B.Tech Computer Science @ VIT Vellore '28 · Vice Chairperson, AI & ML Club
+B.Tech Computer Science @ VIT Vellore '28 · Vice Chairperson, The AI & ML Club
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-sinha-371889355/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitsinha1444@gmail.com)
@@ -15,11 +15,11 @@ B.Tech Computer Science @ VIT Vellore '28 · Vice Chairperson, AI & ML Club
 
 ###  About Me
 
-I'm a second-year CS undergrad at VIT Vellore with a deep interest in machine learning, NLP, and computer vision. I build things that sit at the intersection of AI and real-world utility — from gesture-controlled games to intelligent research tools. Currently leading AI/ML initiatives on campus as Vice Chairperson of the AI & ML Club.
+I'm a second year CS undergrad at VIT Vellore with a deep interest in machine learning, NLP, and computer vision. I build things that sit at the intersection of AI and real-world utility from gesture controlled games to intelligent research tools. Currently leading AI/ML initiatives on campus as Vice Chairperson of the AI & ML Club.
 
-- Currently working on **LLM-powered research tools** and **real-time computer vision applications**
-- Diving deeper into **deep learning architectures**, **prompt engineering**, and **full-stack AI apps**
-- Open to collaborating on **ML/AI projects**, **open-source tools**, and **hackathon teams**
+- Currently working on **LLM powered research tools** and **real time computer vision applications**
+- Diving deeper into **deep learning architectures**, **prompt engineering**, and **full stack AI apps**
+- Open to collaborating on **ML/AI projects**, **open source tools**, and **hackathon teams**
 - Goal: Land an AI/ML internship and contribute meaningfully to open source
 
 ---
