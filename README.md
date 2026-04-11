@@ -8,18 +8,19 @@ B.Tech Computer Science @ VIT Vellore '28 · Vice Chairperson, The AI & ML Club
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-sinha-371889355/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitsinha1444@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arvoxis&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arvoxis)
 
 </div>
 
 ---
 
-###  About Me
+### About Me
 
-I'm a second year CS undergrad at VIT Vellore with a deep interest in machine learning, NLP, and computer vision. I build things that sit at the intersection of AI and real world utility from gesture controlled games to intelligent research tools. Currently leading AI/ML initiatives on campus as Vice Chairperson of the AI & ML Club.
+I'm a second-year CS undergrad at VIT Vellore with a deep interest in machine learning, NLP, and computer vision. I build things at the intersection of AI and real-world utility — from gesture-controlled games to intelligent research engines. Currently leading AI/ML initiatives on campus as Vice Chairperson of the AI & ML Club.
 
-- Currently working on **LLM powered research tools** and **real time computer vision applications**
-- Diving deeper into **deep learning architectures**, **prompt engineering**, and **full stack AI apps**
-- Open to collaborating on **ML/AI projects**, **open source tools**, and **hackathon teams**
+- Building **LLM-powered research tools** and **real-time computer vision applications**
+- Diving deeper into **deep learning architectures**, **prompt engineering**, and **full-stack AI apps**
+- Open to collaborating on **ML/AI projects**, **open-source tools**, and **hackathon teams**
 - Goal: Land an AI/ML internship and contribute meaningfully to open source
 
 ---
@@ -59,13 +60,14 @@ I'm a second year CS undergrad at VIT Vellore with a deep interest in machine le
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**StockSense**](https://github.com/Arvoxis/StockSense) | AI-powered stock dashboard with real-time prices, interactive charts, and Claude AI buy/sell/hold recommendations | JavaScript, Claude API |
-| [**Research Assistant**](https://github.com/Arvoxis/Research-assistant) | Intelligent research tool using LLMs and semantic search for automated information retrieval & summarization | Python, LLMs, Embeddings |
+| [**StockSense**](https://github.com/Arvoxis/StockSense) | AI-powered stock dashboard with real-time prices, interactive charts, and Claude AI buy/sell/hold recommendations | Node.js, Claude API, MongoDB |
+| [**Research Assistant**](https://github.com/Arvoxis/Research-assistant) | Multi-source research engine with semantic search, knowledge graph construction, claim extraction, and real-time streaming results | Python, FastAPI, FAISS, spaCy |
 | [**Snitch Game**](https://github.com/Arvoxis/Harry-puttar-snitch-game) | Real-time hand-tracking game using OpenCV & MediaPipe — built for a college expo escape room | Python, OpenCV, MediaPipe |
+| [**ARDRA**](https://github.com/Arvoxis/ARDRA) | Official website for a college ideathon event — responsive, themed, with schedule and registration | HTML, CSS, JavaScript |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -73,7 +75,7 @@ I'm a second year CS undergrad at VIT Vellore with a deep interest in machine le
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvoxis&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arvoxis&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arvoxis&theme=tokyonight&hide_border=true)
 
 </div>
 
