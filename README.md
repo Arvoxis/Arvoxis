@@ -22,11 +22,11 @@ Vice Chairperson, The AI & ML Club (TAM-VIT) · 🏆 Best Technical Club 2025
 
 Second-year CS undergrad at VIT Vellore. I build end-to-end AI systems — from edge inference pipelines on NVIDIA Jetson hardware to full-stack web apps backed by LLMs. Most of my work sits at the intersection of computer vision, NLP, and real-world Indian-context problems.
 
-- 🚁 Built **Hawk-I** — a drone infrastructure inspection system with dual-model edge inference (YOLOv11n TensorRT INT8 + Grounding DINO), DINOv2 temporal anomaly detection, and Gemma-3 LLM report generation
-- 🌾 Built **KisanSathi** — an offline-first crop disease detection app with a MobileNetV2 TFLite model (~94% val accuracy) and federated learning module
-- 🔬 Exploring **deep learning architectures**, **edge AI deployment**, and **LLM orchestration**
-- 🤝 Open to collaborating on ML/AI projects, open-source tools, and hackathon teams
-- 🎯 Actively targeting **AI/ML internships** for Summer 2025
+-  Built **Hawk-I** — a drone infrastructure inspection system with dual-model edge inference (YOLOv11n TensorRT INT8 + Grounding DINO), DINOv2 temporal anomaly detection, and Gemma-3 LLM report generation
+-  Built **KisanSathi** — an offline-first crop disease detection app with a MobileNetV2 TFLite model (~94% val accuracy) and federated learning module
+-  Exploring **deep learning architectures**, **edge AI deployment**, and **LLM orchestration**
+-  Open to collaborating on ML/AI projects, open-source tools, and hackathon teams
+-  Actively targeting **AI/ML internships** for Summer 2025
 
 ---
 
