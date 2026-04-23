@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="./banner.jpg" alt="Rakshit Sinha" width="100%"/>
 
 # Rakshit Sinha
 
