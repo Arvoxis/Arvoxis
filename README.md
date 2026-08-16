@@ -7,9 +7,9 @@
 **ML Engineer · Full Stack Developer · Open Source Builder**
 
 B.Tech Computer Science @ VIT Vellore '28
-Vice Chairperson, The AI & ML Club (TAM-VIT) · 🏆 Best Technical Club 2025
+Vice Chairperson, The AI & ML Club (TAM-VIT) · Best Technical Club 2025
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-sinha-371889355/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-sinha-vit/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitsinha1444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arvoxis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvoxis)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arvoxis&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arvoxis)
@@ -20,13 +20,14 @@ Vice Chairperson, The AI & ML Club (TAM-VIT) · 🏆 Best Technical Club 2025
 
 ### About Me
 
-Second-year CS undergrad at VIT Vellore. I build end-to-end AI systems — from edge inference pipelines on NVIDIA Jetson hardware to full-stack web apps backed by LLMs. Most of my work sits at the intersection of computer vision, NLP, and real-world Indian-context problems.
+Third-year CS undergrad at VIT Vellore. I build end-to-end AI systems, from edge inference pipelines on NVIDIA Jetson hardware to full-stack web apps backed by LLMs. Most of my work sits at the intersection of computer vision, NLP, and real-world Indian-context problems.
 
--  Built **Hawk-I** — a drone infrastructure inspection system with dual-model edge inference (YOLOv11n TensorRT INT8 + Grounding DINO), DINOv2 temporal anomaly detection, and Gemma-3 LLM report generation
--  Built **KisanSathi** — an offline-first crop disease detection app with a MobileNetV2 TFLite model (~94% val accuracy) and federated learning module
+-  Interned as an **AI Intern at Skylark Drones**, shipping 5 production defect-detection models for drone-based power transmission tower inspection, plus the evaluation and inference tooling behind them
+-  Built **Hawk-I**, a drone infrastructure inspection system with dual-model edge inference (YOLOv11n TensorRT INT8 + Grounding DINO), DINOv2 temporal anomaly detection, and Gemma-3 LLM report generation
+-  Built **KisanSathi**, an offline-first crop disease detection app with a MobileNetV2 TFLite model and a Random Forest crop recommender
 -  Exploring **deep learning architectures**, **edge AI deployment**, and **LLM orchestration**
 -  Open to collaborating on ML/AI projects, open-source tools, and hackathon teams
--  Actively targeting **AI/ML internships** for Summer 2025
+-  Open to **AI/ML and software engineering internships** for Summer 2027
 
 ---
 
@@ -90,7 +91,7 @@ Second-year CS undergrad at VIT Vellore. I build end-to-end AI systems — from 
     </td>
     <td width="50%" valign="top">
       <h3>🌾 <a href="https://github.com/Arvoxis/KisanSathi">KisanSathi</a></h3>
-      <p>Offline-first crop disease detection app for Indian farmers. MobileNetV2 trained on PlantVillage (~94% val accuracy), converted to TFLite with dynamic range quantization. Features FasalDoc disease scanner, Crop Risk Score, and a federated learning module for privacy-preserving model updates.</p>
+      <p>Offline-first crop disease detection app for Indian farmers. MobileNetV2 trained on PlantVillage (~92% val accuracy), converted to TFLite for on-device inference. Features the FasalDoc disease scanner, a Random Forest crop recommender, and a Crop Risk Score.</p>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
