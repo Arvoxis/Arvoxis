@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: Arvoxis
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#f0883e&color_dots=#eef2f0,#8ae89b,#3ccf5e,#1fa34a,#0f6b2f
+            dist/snake-dark.svg?color_snake=#f0883e&color_dots=#161b22,#1d6b3f,#20964c,#2fd163,#5bf58a
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
