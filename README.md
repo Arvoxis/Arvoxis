@@ -139,6 +139,20 @@ Third-year CS undergrad at VIT Vellore. I build end-to-end AI systems, from edge
 
 ---
 
+### Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arvoxis/Arvoxis/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arvoxis/Arvoxis/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Arvoxis/Arvoxis/output/snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer" width="100%"/>
 
